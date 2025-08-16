@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "/image/rnmr.png",
+    "name": "Tshirt rinjani merah",
+    "description": "Tshirt nyaman dengan desain inspirasi Gunung Rinjani. Bahan breathable dan hood adjustable, cocok untuk pendakian atau cuaca dingin.",
+    "price": "100.000",
+    "badge": "RinjaniEdition",
+    "badgeColor": "bg-red-500"
+  },
+  {
+    "id": 2,
+    "imageUrl": "/image/rm2.png",
+    "name": "Rinjani Long Sleeve Merah",
+    "description": "Kemeja trekking merah dengan teknologi penyerap keringat. Ringan tapi kuat, ideal untuk pendakian Rinjani atau aktivitas sehari-hari.",
+    "price": "200.000",
+    "badge": "RinjaniEdition",
+    "badgeColor": "bg-red-500"
+  },
+  {
+    "id": 3,
+    "imageUrl": "/image/rnm3.png",
+    "name": "Rinjani Long Sleeve White",
+    "description": "Kemeja putih perlindungan sinar matahari UPF 30+. Desain minimalis dengan logo Gunung Rinjani, nyaman dipakai sehari-hari.",
+    "price": "200.000",
+    "badge": "RinjaniEdition",
+    "badgeColor": "bg-red-500"
+  },
+  {
+    "id": 4,
+    "imageUrl": "/image/rnmb.png",
+    "name": "Rinjani T-Shirt Biru",
+    "description": "Kemeja biru dengan teknologi perlindungan sinar UV UPF 30+ yang stylish! Desain minimalis dengan logo eksklusif Gunung Rinjani, cocok untuk:",
+    "price": "200.000",
+    "badge": "RinjaniEdition",
+    "badgeColor": "bg-red-500"
+  },
+  {
+    "id": 5,
+    "imageUrl": "/image/rnm.png",
+    "name": "Rinjani Long Sleeve Hitam",
+    "description": "Kemeja hitam perlindungan sinar matahari UPF 30+ dengan logo Gunung Rinjani yang elegan. Material breathable nyaman untuk aktivitas outdoor maupun gaya sehari-hari. Desain minimalis dengan jahitan presisi dan warna hitam anti-kusam.",
+    "price": "200.000",
+    "badge": "RinjaniEdition",
+    "badgeColor": "bg-red-500"
+  }
+]

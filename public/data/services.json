@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Produk Lengkap",
+    "description": "Kami menyediakan berbagai macam fashion seperti topi, kaos, celana, hoodie, tas, dan lainnya.",
+    "icon": "bag"
+  },
+  {
+    "title": "Bahan Berkualitas",
+    "description": "Kami hanya menggunakan bahan premium yang nyaman dan tahan lama.",
+    "icon": "shield"
+  },
+  {
+    "title": "Desain Trendy",
+    "description": "Desain streetwear kami selalu mengikuti tren fashion terbaru.",
+    "icon": "sparkle"
+  }
+]

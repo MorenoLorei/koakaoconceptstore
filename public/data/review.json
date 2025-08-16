@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Lombok garment.",
+    "role": "Local Guide",
+    "quote": "Banyak pilihan desain baju oleh oleh Bahan berkualitas",
+    "image": "/image/reviewpfp2.png",
+    "rating": 5
+  },
+  {
+    "name": "Kiki Rizki Amalia",
+    "role": "Local Guide",
+    "quote": "kaos2 berkualitas, kaos anak & dewasa, tenun, accessories, tas, topi dll ada disini. Harga terjangkau dan pelayanan ramah. Recommend banget, karena design bermotifkan Lombok.",
+    "image": "/image/reviewpfp1.png",
+    "rating": 5
+  },
+
+  {
+    "name": "ojek wisata lombok",
+    "role": "Local Guide",
+    "quote": "Desainnya keren , kalau nganter tamu kesini betah",
+    "image": "/image/reviewpfp3.png",
+    "rating": 5
+  }
+]
