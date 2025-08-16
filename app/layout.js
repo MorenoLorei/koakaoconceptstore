@@ -37,7 +37,7 @@ export const metadata = {
         card: "summary_large_image",
         title: "Koakao Concept Store - Fashion & Gaya Hidup Premium",
         description: "Koleksi produk fashion dan gaya hidup berkualitas dengan desain istimewa",
-        images: ["/images/koakao-bg.jpg"],
+        images: ["/image/koakao-bg.jpg"],
     },
     alternates: {
         canonical: "https://koakaostore.com",
