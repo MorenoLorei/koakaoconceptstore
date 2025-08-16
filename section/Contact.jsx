@@ -6,9 +6,9 @@ const ContactSection = () => {
                 <p className="text-gray-600 mb-8">Ada pertanyaan atau ingin bekerja sama? Silakan hubungi kami melalui form atau kunjungi lokasi kami.</p>
 
                 <div className="text-sm text-gray-700 space-y-1 mb-10">
-                    <p><strong>📍 Alamat:</strong> Jl. Contoh No. 123, Jakarta</p>
-                    <p><strong>📧 Email:</strong> info@koakao.id</p>
-                    <p><strong>📞 Telepon:</strong> +62 812 3456 7890</p>
+                    <p><strong>📍 Alamat:</strong> Jl. kesehatan 1 nomor 2 dan 4</p>
+                    <p><strong>📧 Email:</strong>konveksilombok12@gmail.com</p>
+                    <p><strong>📞 Telepon:</strong> +62 815 2940 8733</p>
                 </div>
 
                 <div className="mb-10 w-full">
