@@ -24,7 +24,7 @@ export const metadata = {
         siteName: "Koakao Concept Store",
         images: [
             {
-                url: "icon.jpg",
+                url: "https://koakaoconceptstore.netlify.app/image/koakao-bg.jpg",
                 width: 1200,
                 height: 630,
                 alt: "Koakao Concept Store - Koleksi Terbaik",
@@ -37,7 +37,7 @@ export const metadata = {
         card: "summary_large_image",
         title: "Koakao Concept Store - Fashion & Gaya Hidup Premium",
         description: "Koleksi produk fashion dan gaya hidup berkualitas dengan desain istimewa",
-        images: ["/image/koakao-bg.jpg"],
+        images: ["https://koakaoconceptstore.netlify.app/image/koakao-bg.jpg"],
     },
     alternates: {
         canonical: "https://koakaostore.com",
